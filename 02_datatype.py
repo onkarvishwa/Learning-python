@@ -1,0 +1,9 @@
+a = 1,                        # integer
+b = 1.0,                      # float
+c = "hello",                  # string
+d = True,                     # boolean
+e = [1, 2, 3],                # list
+f = (1, 2, 3),                # tuple
+g = {1: "a", 2: "b", 3: "c"}, # dictionary
+h = {1, 2, 3},                # set
+i = None                      # variable
