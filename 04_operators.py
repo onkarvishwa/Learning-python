@@ -36,3 +36,6 @@ print("true or true = ", t)
 print("true and true = ", t)
 print("false or false = ", f)
 print("false and false = ", f)
+
+print(not(True))
+print(not(False))
