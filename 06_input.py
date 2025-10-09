@@ -1,4 +1,8 @@
-a = input("Enter number 1: ")
-b = input("Enter number 2: ")
-print("number a is: ", a)
-print("number b is: ", b)
+a = int(input("Enter a number 1: "))
+b = int(input("Enter a number 2: "))
+
+t = a + b
+print("the sum of number 1 and number 2 : ", t)
+
+
+
